@@ -2,7 +2,7 @@
 
 ## Because it is against YouTube policy to download videos as per:
 
-### "You shall not copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any Content for any other purposes without the prior written consent of YouTube or the respective licensors of the Content."
+#### "You shall not copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any Content for any other purposes without the prior written consent of YouTube or the respective licensors of the Content."
 
 This code is simply a coding exercise that I attempted to make for kicks and educational purposes, and not hypothetically for listening to songs offline that I could not find on Spotify ;)
 
